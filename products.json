@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Baby powder",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./images/Baby-powder.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Basmatti Rice 1kg",
+        "price": 7500,
+        "image": { "fields": { "file": { "url": "./images/Basmatti-rice.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Bathing Soap",
+        "price": 16000,
+        "image": { "fields": { "file": { "url": "./images/Bathing-soap.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Black pepper",
+        "price": 3500,
+        "image": { "fields": { "file": { "url": "./images/Black-pepper.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Bread",
+        "price": 5000,
+        "image": { "fields": { "file": { "url": "./images/Bread.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "chilli paste",
+        "price": 3200,
+        "image": { "fields": { "file": { "url": "./images/Chilli-paste.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "coconut oil",
+        "price": 4500,
+        "image": { "fields": { "file": { "url": "./images/Coconut-oil.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "curry powder",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./images/Curry-powder.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Deodrant",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./images/Deodrant.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Detergent",
+        "price": 7000,
+        "image": { "fields": { "file": { "url": "./images/Detergent.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Fabric Softener",
+        "price": 15000,
+        "image": { "fields": { "file": { "url": "./images/Fabric-softener.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Flat iron",
+        "price": 75000,
+        "image": { "fields": { "file": { "url": "./images/Flat-iron.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Ginger Garlic paste",
+        "price": 15000,
+        "image": { "fields": { "file": { "url": "./images/Ginger-garlic-paste.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "glycerine",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./images/Glycerine.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Harpic",
+        "price": 8000,
+        "image": { "fields": { "file": { "url": "./images/Harpic.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Honey",
+        "price": 15000,
+        "image": { "fields": { "file": { "url": "./images/Honey.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Jik 500ml",
+        "price": 15000,
+        "image": { "fields": { "file": { "url": "./images/Jik.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "Mopp",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./images/Mopp.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "Royco",
+        "price": 4500,
+        "image": { "fields": { "file": { "url": "./images/Royco.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "soy sauce",
+        "price": 33000,
+        "image": { "fields": { "file": { "url": "./images/Soy-sauce.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "sunscreen",
+        "price": 16000,
+        "image": { "fields": { "file": { "url": "./images/Sunscreen.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "title": "Tinned fish",
+        "price": 4500,
+        "image": { "fields": { "file": { "url": "./images/Tinned-fish.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "23" },
+      "fields": {
+        "title": "Tinned fruit",
+        "price": 6500,
+        "image": { "fields": { "file": { "url": "./images/Tinned-fruit.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "24" },
+      "fields": {
+        "title": "Tomato paste",
+        "price": 4500,
+        "image": { "fields": { "file": { "url": "./images/Tomato-paste.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "25" },
+      "fields": {
+        "title": "Tooth brush",
+        "price": 2500,
+        "image": { "fields": { "file": { "url": "./images/Tooth-brush.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "26" },
+      "fields": {
+        "title": "Towel",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./images/Towel.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "27" },
+      "fields": {
+        "title": "Towel set",
+        "price": 42000,
+        "image": { "fields": { "file": { "url": "./images/Towels.jpeg" } } }
+      }
+    }
+  ]
+}
