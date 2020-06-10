@@ -58,10 +58,13 @@ input {
 
 
 #checkoutBtn {
-    border: 3px solid #000000;
+    border: 1px solid #000000;
+    position: absolute ;
+    margin-left: 40px;
+    margin-top: 15px;
+    text-align: center;
     font-size: 16px;
     padding: 20px;
-    border-radius: 5%;
     background: #f1d829;
     font-weight: bolder;
     cursor: pointer;
@@ -95,6 +98,41 @@ input {
 }
 .nav-icon {
     font-size: 1.5rem;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: brown;
+    text-decoration: none;
+}
+
+.main-nav {
+    text-align: center;
+    background-color: rgb(130, 172, 31);
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255, 255, 255, .3)
+}
+
+.main-nav li {
+    padding: 0 5%;
+}
+
+.nav a:hover {
+    background-color: rgb(130, 172, 31);
+}
+
+.nav-item {
+    color: darkgreen;
 }
 
 .band-name {
